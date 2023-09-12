@@ -21,9 +21,5 @@
 ### Lesson Plans and activity files are located in Lesson-Plans
 #### They are sorted based on week as well as day
 
-<img src="./Images/Step3.png"/>
-
 ## Lesson Slides: 
 ### Lesson slides in Powerpoint format are located in Lesson-Slides
-
-<img src="./Images/Step4.png"/>
